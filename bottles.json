@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "brand": "Aquafina",
+    "size": "500ml",
+    "price": 20,
+    "material": "Plastic",
+    "isReusable": false,
+    "weight": "12g",
+    "usageDuration": "1 time use",
+    "canHoldHotCold": "Cold only",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Aquafina_Bottle.jpg"
+  },
+  {
+    "id": 2,
+    "brand": "Kinley",
+    "size": "1L",
+    "price": 35,
+    "material": "Plastic",
+    "isReusable": false,
+    "weight": "18g",
+    "usageDuration": "1 time use",
+    "canHoldHotCold": "Cold only",
+    "img": "https://www.jiomart.com/images/product/original/491696616/kinley-mineral-water-1-l-product-images-o491696616-p491696616-0-202203150348.jpg"
+  },
+  {
+    "id": 3,
+    "brand": "Spa",
+    "size": "750ml",
+    "price": 50,
+    "material": "Glass",
+    "isReusable": true,
+    "weight": "400g",
+    "usageDuration": "5+ years",
+    "canHoldHotCold": "Both (but careful with sudden temperature change)",
+    "img": "https://m.media-amazon.com/images/I/51WQIMv5I1L.jpg"
+  },
+  {
+    "id": 4,
+    "brand": "Nestle Pure Life",
+    "size": "1.5L",
+    "price": 60,
+    "material": "Plastic",
+    "isReusable": false,
+    "weight": "25g",
+    "usageDuration": "1 time use",
+    "canHoldHotCold": "Cold only",
+    "img": "https://m.media-amazon.com/images/I/71F2GZp2yYL._AC_UL600_FMwebp_QL65_.jpg"
+  },
+  {
+    "id": 5,
+    "brand": "Hydro Flask",
+    "size": "1L",
+    "price": 2500,
+    "material": "Stainless Steel",
+    "isReusable": true,
+    "weight": "350g",
+    "usageDuration": "10+ years",
+    "canHoldHotCold": "Both (hot up to 12 hrs, cold up to 24 hrs)",
+    "img": "https://m.media-amazon.com/images/I/61P+vq0tLxL._AC_SX679_.jpg"
+  }
+]
